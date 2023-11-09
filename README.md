@@ -1,8 +1,4 @@
-# A Swim in the C - Assignment README
-
-**Course:** CMS 230 - Fall 2017
-
-**Due Date:** Thursday, September 7, 11:59:59 PM
+# A Swim in the C 
 
 ## Description
 
